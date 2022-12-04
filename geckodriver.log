@@ -1,0 +1,47 @@
+1669883812148	geckodriver	INFO	Listening on 127.0.0.1:65339
+1669883815285	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "65340" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Admin\\AppData\\Local\\Temp\\rust_mozprofileSQQlnX"
+1669883816436	Marionette	INFO	Marionette enabled
+1669883816450	Marionette	INFO	Listening on port 65349
+Read port: 65349
+WebDriver BiDi listening on ws://127.0.0.1:65340
+1669883816846	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Admin\\AppData\\Local\\Temp\\rust_mozprofileSQQlnX\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:65340/devtools/browser/832a0469-050b-4f21-a729-a5106a6bce89
+JavaScript error: https://meralda.scalenext.io/js/main.js, line 3: TypeError: $(...).niceNumber is not a function
+1669884036863	Marionette	INFO	Stopped listening on port 65349
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+remote-debugging-port" "65407" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Admin\\AppData\\Local\\Temp\\rust_mozprofileWtKOYR"
+1669883868468	Marionette	INFO	Marionette enabled
+1669883868481	Marionette	INFO	Listening on port 65416
+Read port: 65416
+WebDriver BiDi listening on ws://127.0.0.1:65407
+1669883868836	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Admin\\AppData\\Local\\Temp\\rust_mozprofileWtKOYR\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:65407/devtools/browser/8b76f5b4-87d0-4686-986c-4e9e0cc0ef70
+JavaScript error: https://meralda.scalenext.io/js/main.js, line 3: TypeError: $(...).niceNumber is not a function
+1669884038330	Marionette	INFO	Stopped listening on port 65416
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1669884294419	geckodriver	INFO	Listening on 127.0.0.1:49199
+1669884297453	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "49200" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Admin\\AppData\\Local\\Temp\\rust_mozprofile5x958d"
+1669884299081	Marionette	INFO	Marionette enabled
+1669884299099	Marionette	INFO	Listening on port 49209
+Read port: 49209
+WebDriver BiDi listening on ws://127.0.0.1:49200
+1669884299649	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Admin\\AppData\\Local\\Temp\\rust_mozprofile5x958d\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:49200/devtools/browser/83f2c63a-15cf-4ea5-83bc-56df5dfeeb2b
+JavaScript error: https://meralda.scalenext.io/js/main.js, line 3: TypeError: $(...).niceNumber is not a function
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+1669889458339	Marionette	INFO	Stopped listening on port 49209
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+[Parent 7192, IPC I/O Parent] WARNING: DuplicateHandle failed for handle 0 in TransferHandles: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:746
+ening on port 49297
+Read port: 49297
+WebDriver BiDi listening on ws://127.0.0.1:49288
+1669884430019	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Admin\\AppData\\Local\\Temp\\rust_mozprofilejUIpRE\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:49288/devtools/browser/ed6ca407-0085-444b-9d30-1c773ba5c042
+JavaScript error: https://meralda.scalenext.io/js/main.js, line 3: TypeError: $(...).niceNumber is not a function
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+1669889456493	Marionette	INFO	Stopped listening on port 49297
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
